@@ -62,7 +62,7 @@ x = setInterval(function() {
       strings: ['VIVA LAS FUTAS', 'VIVA LAS TETAS', 'VIVA LOS PEZONES', config.name, '╰(^o^)╮╰(^o^)╮'],
     
       charSize: 30, //Tamaño de la letra P
-      charSpacing: 30, //Distancia entre las letras P
+      charSpacing: 28, //Distancia entre las letras P
       lineHeight: 40, //Distancia de separacion entre P palabras
 
       //Intervalos
