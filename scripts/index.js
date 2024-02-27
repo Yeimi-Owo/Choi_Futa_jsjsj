@@ -61,8 +61,8 @@ x = setInterval(function() {
       //Llamar los atributos del nombre
       strings: ['VIVA LAS FUTAS', 'VIVA LAS TETAS', 'Y LOS PEZONES', config.name, '╰(^o^)╮╰(^o^)╮'],
     
-      charSize: 23, //Tamaño de la letra P
-      charSpacing: 28, //Distancia entre las letras P
+      charSize: 25, //Tamaño de la letra P
+      charSpacing: 30, //Distancia entre las letras P
       lineHeight: 40, //Distancia de separacion entre P palabras
 
       //Intervalos
